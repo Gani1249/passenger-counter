@@ -1,0 +1,30 @@
+.box{
+    width:250px;
+    height: 230px;
+    background-color: azure;
+    margin: 1em 2em 0 5em;
+    border-radius: 10px;
+    border: 2px solid black;
+    text-align: center;
+}
+body{
+    background-image: url(rp.png);
+    background-size:100%;
+    background-repeat: no-repeat;
+    
+}
+#increment-btn{
+    background-color: rgba(20, 220, 50, 0.844);
+    margin-bottom: 10px;
+}
+#save-btn{
+    background-color:rgb(44, 89, 222);
+}
+button{
+    width:70%;
+    cursor: pointer;
+}
+#save-el{
+    text-align: left;
+    margin-left:10px;
+}
